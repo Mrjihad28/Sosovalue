@@ -13,7 +13,7 @@ else:
 print("""[~]=========================================[~]
 [~]         Cloudfire Captcha Bypass        [~]
 [~]         Follow GitHub : @Mrjihad28          [~]
-[~]         YouTube : @airdroptube2020                [~]
+[~]         TG Channel : @AirdropTube28                [~]
 [~]=========================================[~]
 """.strip())
 print(f'Web url : \033[0;32mhttp://localhost:{prt}\033[0m')
