@@ -12,8 +12,8 @@ else:
     os.system('clear')
 print("""[~]=========================================[~]
 [~]         Cloudfire Captcha Bypass        [~]
-[~]         Follow GitHub : @nbprg          [~]
-[~]         YouTube : @nbprg                [~]
+[~]         Follow GitHub : @Mrjihad28          [~]
+[~]         YouTube : @airdroptube2020                [~]
 [~]=========================================[~]
 """.strip())
 print(f'Web url : \033[0;32mhttp://localhost:{prt}\033[0m')
