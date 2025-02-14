@@ -3,10 +3,10 @@
 ## installation 
 
 ```
-git clone https://github.com/nbprg/soso
+git clone https://github.com/Mrjihad28/Sosovalue.git
 ```
 ```
-cd soso
+cd Sosovalue
 ```
 ```
 python app.py
@@ -28,5 +28,4 @@ python main_bot.py
 - Done ✅
 
 ## support 
-- Solana : `4RoRBBC4FUC5aN5MHVYSGnom12CRjVMsPHXVV9ANR4rg`
-- bep20 : `0xec46a2c4b1d00d6aa6d49d4da6354406645d46bb`
+TG Channel Join Now : t.me/AirdropTube28
